@@ -8,8 +8,6 @@ body{
     z-index: 3;
     left: 50%;
     top: 28%;
-    /* width: 43%;
-    height: 45%; */
     background-color: rgb(219, 227, 235, 0.77);
     box-shadow: 0px 20px 80px -16px rgba(0,0,0,0.75);
 }
@@ -40,7 +38,6 @@ transform: scale(1.05)
 .header{
 margin-top: 1%;
 margin-bottom: 0%;
-/* height: 40%; */
 border-bottom-left-radius: 0%;
 border-bottom-right-radius: 0%;
 box-shadow: 0px 20px 80px -16px rgba(0,0,0,0.75);
